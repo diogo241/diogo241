@@ -1,6 +1,6 @@
 # Hi there, I'm Diogo Mesquita! 👋
 
-I am a **Full-Stack Software Developer** passionate about building efficient, scalable web products that solve real-world problems. My experience spans across **digital healthcare, e-commerce, and workflow automation**, where I focus on delivering clean code and optimizing performance.
+I am a **Software Developer** passionate about building efficient, scalable web products that solve real-world problems. My experience spans across **digital healthcare, e-commerce, and workflow automation**, where I focus on delivering clean code and optimizing performance.
 
 Currently, I am building a clinical management platform serving over 50 daily users, while simultaneously maintaining and optimizing over 10 e-commerce platforms and websites.
 
